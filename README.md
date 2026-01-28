@@ -1,3 +1,3 @@
 # lyricallyyou
 
-checking for jira to git hub integration for Testing and Validation
+checking for jira to git hub integration for Admin dashboard
